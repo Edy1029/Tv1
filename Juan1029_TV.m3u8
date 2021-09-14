@@ -1,0 +1,436 @@
+#EXTM3U
+#EXTINF:0,A&E HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=62&format=HLS&f=.m3u8
+#EXTINF:0,A&E SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=62&format=HLS&f=.m3u8
+#EXTINF:0,ADN 40 HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=40&format=HLS&f=.m3u8
+#EXTINF:0,ADN 40 SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=40&format=HLSAD&f=.m3u8
+#EXTINF:0,AMC HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=328&format=HLS&f=.m3u8
+#EXTINF:0,AMC SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=328&format=HLSAD&f=.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2378&format=HLS&f=.m3u8
+#EXTINF:0,ANIMAL PLANET SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2378&format=HLSAD&f=.m3u8
+#EXTINF:0,AXN HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=64&format=HLS&f=.m3u8
+#EXTINF:0,AXN SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=64&format=HLSAD&f=.m3u8
+#EXTINF:0,AYM SPORTS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=180&format=HLS&f=.m3u8
+#EXTINF:0,AYM SPORTS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=180&format=HLSAD&f=.m3u8
+#EXTINF:0,AZTECA CINEMA HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1787&format=HLS&f=.m3u8
+#EXTINF:0,AZTECA CINEMA SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1787&format=HLSAD&f=.m3u8
+#EXTINF:0,AZTECA CLIC HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=11&format=HLS&f=.m3u8
+#EXTINF:0,AZTECA CLIC SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=11&format=HLSAD&f=.m3u8
+#EXTINF:0,AZTECA CORAZON HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=70&format=HLS&f=.m3u8
+#EXTINF:0,AZTECA CORAZON SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=70&format=HLSAD&f=.m3u8
+#EXTINF:0,AZTECA MUNDO HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=84&format=HLS&f=.m3u8
+#EXTINF:0,AZTECA MUNDO SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=84&format=HLSAD&f=.m3u8
+#EXTINF:0,AZTECA 7 HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=317&format=HLS&f=.m3u8
+#EXTINF:0,AZTECA 7 SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=21&format=HLSAD&f=.m3u8
+#EXTINF:0,AZTECA UNO HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=27&format=HLS&f=.m3u8
+#EXTINF:0,AZTECA UNO SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=27&format=HLSAD&f=.m3u8
+#EXTINF:0,BITME HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2591&format=HLS&f=.m3u8
+#EXTINF:0,BITME SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2591&format=HLSAD&f=.m3u8
+#EXTINF:0,BOOMERANG HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=115&format=HLS&f=.m3u8
+#EXTINF:0,BOOMERANG SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=115&format=HLSAD&f=.m3u8
+#EXTINF:0,CANAL 5 HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2243&format=HLS&f=.m3u8
+#EXTINF:0,CANAL 5 SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=20&format=HLSAD&f=.m3u8
+#EXTINF:0,CARTOON NETWORT HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=112&format=HLS&f=.m3u8
+#EXTINF:0,CARTOON NETWORT SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=112&format=HLSAD&f=.m3u8
+#EXTINF:0,CINECANAL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=149&format=HLS&f=.m3u8
+#EXTINF:0,CINECANAL SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=149&format=HLSAD&f=.m3u8
+#EXTINF:0,CINEMAX HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=158&format=HLS&f=.m3u8
+#EXTINF:0,CINEMAX SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=158&format=HLSAD&f=.m3u8
+#EXTINF:0,CLARO SPORTS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2564&format=HLS&f=.m3u8
+#EXTINF:0,CLARO SPORTS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2564&format=HLSAD&f=.m3u8
+#EXTINF:0,COMEDY CENTRAL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=340&format=HLS&f=.m3u8
+#EXTINF:0,COMEDY CENTRAL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=340&format=HLSAD&f=.m3u8
+#EXTINF:0,DE PELICULA HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=335&format=HLS&f=.m3u8
+#EXTINF:0,DE PELICULA SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=335&format=HLSAD&f=.m3u8
+#EXTINF:0,DE PELICULA PLUS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=121&format=HLS&f=.m3u8
+#EXTINF:0,DE PELICULA PLUS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=121&format=HLSAD&f=.m3u8
+#EXTINF:0,DISCOVERY CHANNEL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=86&format=HLS&f=.m3u8
+#EXTINF:0,DISCOVERY CHANNEL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=86&format=HLSAD&f=.m3u8
+#EXTINF:0,DISCOVERY KIDS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=109&format=HLS&f=.m3u8
+#EXTINF:0,DISCOVERY KIDS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=109&format=HLSAD&f=.m3u8
+#EXTINF:0,DISNEY CHANNEL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=113&format=HLS&f=.m3u8
+#EXTINF:0,DISNEY CHANNEL SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=113&format=HLSAD&f=.m3u8
+#EXTINF:0,DISNEY XD HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=111&format=HLS&f=.m3u8
+#EXTINF:0,DISNEY XD SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=111&format=HLSAD&f=.m3u8
+#EXTINF:0,DISNEY JUNIOR HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=118&format=HLS&f=.m3u8
+#EXTINF:0,DISNEY JUNIOR SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=118&format=HLSAD&f=.m3u8
+#EXTINF:0,DISTRITO COMEDIA HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=78&format=HLS&f=.m3u8
+#EXTINF:0,DISTRITO COMEDIA SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=78&format=HLSAD&f=.m3u8
+#EXTINF:0,E! HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=55&format=HLS&f=.m3u8
+#EXTINF:0,E! SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=55&format=HLSAD&f=.m3u8
+#EXTINF:0,EL GOURMET HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=74&format=HLS&f=.m3u8
+#EXTINF:0,EL GOURMET SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=74&format=HLSAD&f=.m3u8
+#EXTINF:0,EL NU9VE HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=24&format=HLS&f=.m3u8
+#EXTINF:0,EL NU9VE SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=24&format=HLSAD&f=.m3u8
+#EXTINF:0,ESPN HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=168&format=HLS&f=.m3u8
+#EXTINF:0,ESPN SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=168&format=HLSAD&f=.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=169&format=HLS&f=.m3u8
+#EXTINF:0,ESPN 2 SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=169&format=HLSAD&f=.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=345&format=HLS&f=.m3u8
+#EXTINF:0,ESPN 3 SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=345&format=HLSAD&f=.m3u8
+#EXTINF:0,ESPN PLUS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=167&format=HLS&f=.m3u8
+#EXTINF:0,ESPN PLUS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=167&format=HLSAD&f=.m3u8
+#EXTINF:0,FORO TV HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=700&format=HLS&f=.m3u8
+#EXTINF:0,FORO TV SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=700&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX CHANNEL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=46&format=HLS&f=.m3u8
+#EXTINF:0,FOX CHANNEL SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=46&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX LIFE HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=77&format=HLS&f=.m3u8
+#EXTINF:0,FOX LIFE SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=77&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX PREMIUM ACTION HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=336&format=HLS&f=.m3u8
+#EXTINF:0,FOX PREMIUM ACTION SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=336&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX PREMIUM MOVIES HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=146&format=HLS&f=.m3u8
+#EXTINF:0,FOX PREMIUM MOVIES SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=146&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX PREMIUM SERIES HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=139&format=HLS&f=.m3u8
+#EXTINF:0,FOX PREMIUM SERIES SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=139&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX PREMIUM CINEMA HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1729&format=HLS&f=.m3u8
+#EXTINF:0,FOX PREMIUM CINEMA SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1729&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX PREMIUM CLASSICS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1732&format=HLS&f=.m3u8
+#EXTINF:0,FOX PREMIUM CLASSICS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1732&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX SPORTS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=170&format=HLS&f=.m3u8
+#EXTINF:0,FOX SPORTS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=170&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=172&format=HLS&f=.m3u8
+#EXTINF:0,FOX SPORTS 2 SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=172&format=HLSAD&f=.m3u8
+#EXTINF:0,FOX SPORTS 3 HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=178&format=HLS&f=.m3u8
+#EXTINF:0,FOX SPORTS 3 SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=178&format=HLSAD&f=.m3u8
+#EXTINF:0,FX HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=60&format=HLS&f=.m3u8
+#EXTINF:0,FX SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=60&format=HLSAD&f=.m3u8
+#EXTINF:0,FXM HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=138&format=HLS&f=.m3u8
+#EXTINF:0,FXM SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=138&format=HLSAD&f=.m3u8
+#EXTINF:0,GOLDEN HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=123&format=HLS&f=.m3u8
+#EXTINF:0,GOLDEN SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=123&format=HLSAD&f=.m3u8
+#EXTINF:0,GOLDEN EDGE HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=124&format=HLS&f=.m3u8
+#EXTINF:0,GOLDEN EDGE SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=124&format=HLSAD&f=.m3u8
+#EXTINF:0,GOLDEN PLUS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=122&format=HLS&f=.m3u8
+#EXTINF:0,GOLDEN PLUS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=122&format=HLSAD&f=.m3u8
+#EXTINF:0,IMAGEN TV HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2298&format=HLS&f=.m3u8
+#EXTINF:0,IMAGEN TV SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2298&format=HLSAD&f=.m3u8
+#EXTINF:0,IZZI AFIZZIONADOS SD
+#EXTGRP:unsorted
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+#EXTINF:0,LAS ESTRELLAS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2328&format=HLS&f=.m3u8
+#EXTINF:0,LAS ESTRELLAS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2328&format=HLSAD&f=.m3u8
+#EXTINF:0,NAT GEO KIDS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2373&format=HLS&f=.m3u8
+#EXTINF:0,NAT GEO KIDS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2373&format=HLSAD&f=.m3u8
+#EXTINF:0,NAT GEO WILD HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=92&format=HLS&f=.m3u8
+#EXTINF:0,NAT GEO WILD SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=92&format=HLSAD&f=.m3u8
+#EXTINF:0,NICK HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=331&format=HLS&f=.m3u8
+#EXTINF:0,NICK SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=331&format=HLSAD&f=.m3u8
+#EXTINF:0,NICK 2 HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2147&format=HLS&f=.m3u8
+#EXTINF:0,NICK 2 SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=2147&format=HLSAD&f=.m3u8
+#EXTINF:0,NICK JR HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=117&format=HLS&f=.m3u8
+#EXTINF:0,NICK JR SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=117&format=HLSAD&f=.m3u8
+#EXTINF:0,ONCE TV HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1942&format=HLS&f=.m3u8
+#EXTINF:0,ONCE TV SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1942&format=HLSAD&f=.m3u8
+#EXTINF:0,PARAMAUNT HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1726&format=HLS&f=.m3u8
+#EXTINF:0,PARAMAUNT SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=1726&format=HLSAD&f=.m3u8
+#EXTINF:0,SONY HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=48&format=HLS&f=.m3u8
+#EXTINF:0,SONY SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=48&format=HLSAD&f=.m3u8
+#EXTINF:0,SPACE HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=129&format=HLS&f=.m3u8
+#EXTINF:0,SPACE SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=129&format=HLSAD&f=.m3u8
+#EXTINF:0,STUDIO UNIVERSAL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=132&format=HLS&f=.m3u8
+#EXTINF:0,STUDIO UNIVERSAL SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=132&format=HLSAD&f=.m3u8
+#EXTINF:0,SYFY HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=59&format=HLS&f=.m3u8
+#EXTINF:0,SYFY SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=59&format=HLSAD&f=.m3u8
+#EXTINF:0,TELEMUNDO INTERNACIONAL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=85&format=HLS&f=.m3u8
+#EXTINF:0,TELEMUNDO INTERNACIONAL SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=85&format=HLSAD&f=.m3u8
+#EXTINF:0,TCM HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=128&format=HLS&f=.m3u8
+#EXTINF:0,TCM SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=128&format=HLSAD&f=.m3u8
+#EXTINF:0,TLNOVELAS HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=83&format=HLS&f=.m3u8
+#EXTINF:0,TLNOVELAS SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=83&format=HLSAD&f=.m3u8
+#EXTINF:0,TNT HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=126&format=HLS&f=.m3u8
+#EXTINF:0,TNT SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=126&format=HLSAD&f=.m3u8
+#EXTINF:0,TNT SERIES HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=71&format=HLS&f=.m3u8
+#EXTINF:0,TNT SERIES SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=71&format=HLSAD&f=.m3u8
+#EXTINF:0,TUDN HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=174&format=HLS&f=.m3u8
+#EXTINF:0,TUDN SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=174&format=HLSAD&f=.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=57&format=HLS&f=.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=57&format=HLSAD&f=.m3u8
+#EXTINF:0,WARNER HD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=205&format=HLS&f=.m3u8
+#EXTINF:0,WARNER SD
+#EXTGRP:unsorted
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=qgb8dimidf1pqwy&lchId=52&format=HLSAD&f=.m3u8
